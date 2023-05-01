@@ -1,0 +1,76 @@
+// PC: Referred as possible cauda equina syndrome
+// HPC:
+Back pain: __
+Radicular symptoms: __
+Urinary incontinence: __
+Faecal incontinence: __
+Saddle anaesthesia: __
+Sexual dysfunction: __
+Weight loss: __
+// Past medical history:
+__
+History of cancer: __Yes/No
+// Drug history:
+__
+// Allergy history: 
+__
+// Social history:
+__
+// AMTS:
+__
+// Examination:
+T: __ °C 
+HR: __ RR: __ BP: __ SpO2: __%
+GCS: 15/15
+Heart: S1+S2+0, regular pulse
+Lungs: Clear
+Abdomen: Soft, non tender
+Calves: Soft, non-tender
+Spine:
+Lower limb neurological assessment:
+Tone: 
+Left = Normal / Increased / Decreased
+Right = Normal / Increased / Decreased
+Power:
+Left         |  Right              |     Test
+5            |  5                  |     Hip flexion (L2/L3)
+5            |  5                  |     Hip extension (L4/L5)	 
+5            |  5                  |     Knee extension (L3/L4)	 
+5            |  5                  |     Knee flexion (L5/S1)	 
+5            |  5                  |     Ankle dorsiflexion (L4/L5)	 
+5            |  5                  |     Ankle plantarflexion (S1/S2)	 
+5            |  5                  |     Great toe extension (L5)
+Reflexes:
+Left         |  Right              |     
+++           |  ++                 |     Knee reflex (L3/L4)
+++           |  ++                 |     Ankle reflex (S1/S2)	 
+Down         |  Down               |     Plantars
+Sensation:
+Light touch & Pin-prick (0=Absent, 1= Impaired, 2= Normal, NT = Not testable)
+Left         |  Right              |     Test
+2 & 2        |  2 & 2              |     L2 (upper outer thigh)
+2 & 2        |  2 & 2              |     L3 (medial thigh)	 
+2 & 2        |  2 & 2              |     L4 (medial calf)	 
+2 & 2        |  2 & 2              |     L5 (dorsum foot)	 
+2 & 2        |  2 & 2              |     S1 (little toe)	
+Post-void residual volume on bladder scan: __ ml
+Digital rectal examination:
+Peri-anal sensation to light touch: __Normal/Reduced
+Anal tone: __Normal/Reduced
+// Investigations:
+ECG: __
+Bloods:
+Hb __ 
+Urea __ 
+Creat __ 
+Na __ 
+K __
+G&S __
+// Plan:
+- Admit under Trauma & Orthopaedics - Need to rule out cauda equina syndrome
+- Analgesia
+- Mobilise FWB as able
+- Urgent MRI scan lumbosacral spine
+- VTE prophylaxis with TED stockings and intermittent calf compression. NOT for low-molecular weight heparin until MRI scan result known 
+__ - Nil by mouth
+__- Discussed with Neurosurgery SpR (__) at __

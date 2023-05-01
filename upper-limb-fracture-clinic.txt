@@ -1,0 +1,14 @@
+Occupation: __
+Hand dominance: Right/Left
+Diagnosis: __
+Side: Right/Left
+Mechanism of injury: __
+Date of injury: __
+Examination:
+Closed injury.
+Neurovascular assessment normal.
+Imaging:
+__
+Management:
+__
+Discharged / Follow-up in _ weeks

@@ -1,0 +1,15 @@
+Occupation: __
+Diagnosis: __
+Side: Right/Left
+Mechanism of injury: __
+Date of injury: __
+Examination:
+Closed injury.
+Neurovascular assessment normal.
+Tendo-achilles intact.
+No signs of injury to mid-foot.
+Imaging:
+__
+Management:
+__
+Discharged / Follow-up in _ weeks

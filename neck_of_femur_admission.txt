@@ -1,0 +1,49 @@
+// Diagnosis: __ neck of femur fracture
+// Mechanism of injury: __
+Preceding symptoms: __
+Head injury: __
+// Past medical history:
+__
+// Drug history:
+__
+// Allergy history: 
+__
+// Social history:
+__
+// AMTS:
+__
+// Examination:
+T: __ °C 
+HR: __ RR: __ BP: __ SpO2: __%
+__Patient lying on bed, alert and responsive
+GCS: __/15
+Heart: S1+S2+0, regular pulse
+Lungs: Clear
+Abdomen: Soft, non tender
+Calves: Soft, non-tender
+__ Hip:
+Shortened, externally rotated.
+Neurovascularly intact.
+// Treatment escalation plan:
+Discussed TEP with patient __
+// Investigations:
+ECG: __
+Chest XR: __
+Pelvic XR: __
+Bloods:
+Hb __ 
+Urea __ 
+Creat __ 
+Na __ 
+K __
+G&S __
+// Plan:
+- Fascia iliaca block
+- ECG
+- Med reg review
+- Analgesia
+- Laxatives
+- Intravenous fluids
+- VTE: DOAC/enoxaparin + TEDS
+- NBM 2am
+- Consent form
